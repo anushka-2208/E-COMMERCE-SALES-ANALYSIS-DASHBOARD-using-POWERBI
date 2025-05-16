@@ -59,9 +59,9 @@ Welcome! This repository contains a complete **Power BI dashboard project** buil
 
 ---
 
-## 📹 Video Walkthrough (Coming Soon)
+## 📹 Video Walkthrough (On Linkedin)
 
-I’ll be uploading a video walkthrough shortly where I explain:
+I’ve been uploaded a video walkthrough where I explain:
 - How each visual works
 - What insights can be drawn
 - How to use the filters interactively
