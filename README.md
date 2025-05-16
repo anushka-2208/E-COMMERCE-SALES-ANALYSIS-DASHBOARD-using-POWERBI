@@ -82,7 +82,7 @@ I’ll be uploading a video walkthrough shortly where I explain:
 
 I'm always open to feedback and collaboration!  
 🔗 [LinkedIn]( http://www.linkedin.com/in/anushka-sharma-srm ) 
-📧 anushka@example.com *(optional)*
+📧 anushka.sharma.work.2208@gmail.com
 
 ---
 
